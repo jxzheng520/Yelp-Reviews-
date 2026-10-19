@@ -1,7 +1,8 @@
 Yelp JSON/
 Yelp Photos/
 .DS_Store
-
+yelp_photos_embeddings.npz
+yelp_business_level_embeddings.npz
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
